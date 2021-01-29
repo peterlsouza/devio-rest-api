@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOiyVmVMcFwtijEb/JMHzhjugIw4Z/62XDRnjJLOwH+ZQvesMqdPyuKC4yOsxZFNifWBrjXSpAZ8bhJ4xDRmXg==",
+  "success": true,
+  "projectFilePath": "C:\\Labs\\DevIO_DotNet\\WeAPIRest\\WebAPIFull\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peterson.souza\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\peterson.souza\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\peterson.souza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

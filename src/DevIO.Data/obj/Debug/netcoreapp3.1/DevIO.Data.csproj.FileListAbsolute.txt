@@ -1,0 +1,15 @@
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Labs\DevIO_DotNet\WeAPIRest\WebAPIFull\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.genruntimeconfig.cache
